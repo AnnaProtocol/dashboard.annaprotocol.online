@@ -138,7 +138,7 @@ ${r.byteLength}`)),a=e?r:Cr(i,r);return mi(a)},s0e=(t,e)=>{const n=ed(e),r=to.si
         .logo {
             width: 70px;
             height: 70px;
-            background: white;
+            background: black;
             border-radius: 50%;
             display: flex;
             align-items: center;
